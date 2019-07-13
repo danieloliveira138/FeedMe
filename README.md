@@ -1,6 +1,6 @@
 # FeedMe
 
-## An Android study project,
+## An Android study project
 
 ### Build with:
    * Kotlin.
