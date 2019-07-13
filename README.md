@@ -1,8 +1,8 @@
-## FeedMe
+# FeedMe
 
-# An Android study project,
+## An Android study project,
 
-## Build with:
+### Build with:
    * Kotlin.
    * MVP.
    * Dagger 2.
