@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FeedMe</string>
+    <string name="unknown_error">Erro</string>
+</resources>
